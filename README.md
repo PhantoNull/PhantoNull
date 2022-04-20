@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey! Luca here 👋
+## Hey! Luca here 👋
 
 I'm a computer science student and a software developer at [Rationence](https://www.rationence.eu).
 <br/>
 
-### Languages and Tools
+### Languages and Tools 🛠️
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
@@ -31,10 +31,17 @@ I'm a computer science student and a software developer at [Rationence](https://
 <img align="left" height="30" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <br/>
 
-### My GitHub Stats
+### My GitHub Stats 💬
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhantoNull&theme=nightowl&show_icons=true&count_private=true&include_all_commits=true" />
   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantoNull&show_icons=true&layout=compact&theme=nightowl&count_private=true"/> -->
 </p>
+
+### Fun facts 😄
+<ul>
+  <li>♟️ I started playing chess by playing against the strongest chess engine (0 win against him to date)
+  <li>🍋 I enjoy taking care of different plants in my garden. Still trying to get some lemons.
+  <li>🏋️ If not programming, losing against a chess engine or watering plants I'm @ Gym
+</ul>

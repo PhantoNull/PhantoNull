@@ -43,5 +43,5 @@ I'm a computer science student and a software developer at [Rationence](https://
 <ul>
   <li>♟️ I started playing chess by playing against the strongest chess engine (0 win against him to date)
   <li>🍋 I enjoy taking care of different plants in my garden. Still trying to get some lemons.
-  <li>🏋️ If not programming, losing against a chess engine or watering plants I'm @ Gym
+  <li>🏋️ If not programming, losing against a chess engine or watering plants I'm @ gym
 </ul>

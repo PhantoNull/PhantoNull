@@ -35,7 +35,7 @@ I'm a computer science student and a software developer at [Rationence](https://
 ### My GitHub Stats 💬
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhantoNull&theme=nightowl&show_icons=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhantoNull&theme=codeSTACKr&show_icons=true&count_private=true&include_all_commits=true"/>
   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantoNull&show_icons=true&layout=compact&theme=nightowl&count_private=true"/> -->
 </p>
@@ -44,5 +44,5 @@ I'm a computer science student and a software developer at [Rationence](https://
 <ul>
   <li>♟️ I started playing chess by playing against the strongest chess engine (0 win against him to date)
   <li>🍋 I enjoy taking care of different plants in my garden. Still trying to get some lemons.
-  <li>🏋️ If not programming, losing against a chess engine or watering plants I'm @ gym
+  <li>🏋️ If not coding, losing against a chess engine or watering plants I'm @ gym
 </ul>

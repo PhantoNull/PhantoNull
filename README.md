@@ -44,6 +44,6 @@ I'm a computer science student and a software developer at [Rationence](https://
 ### Fun facts 😄
 <ul>
   <li>♟️ I started playing chess by playing against the strongest chess engine (0 win against him to date)
-  <li>🍋 I enjoy taking care of different plants in my garden. Still trying to get some lemons.
+  <li>🍋 I enjoy growing and taking care of different plants in my garden. Still trying to get some lemons from a cutting.
   <li>🏋️ If not coding, losing against a chess engine or watering plants I'm @ gym
 </ul>

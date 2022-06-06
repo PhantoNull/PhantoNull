@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hey! Luca here 👋
 
-I'm a computer science student and a software developer at [Rationence](https://www.rationence.eu).
+I'm a computer science student and a software engineer and developer at [Rationence](https://www.rationence.eu).
 <br/>
 
 ### Languages and Tools 🛠️

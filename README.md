@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hey! Luca here 👋
 
-I'm a computer science graduate and a software engineer and devops engineer at [HPE](https://www.hpe.com).
+I'm graduated in computer science and a software engineer and devops engineer at [HPE](https://www.hpe.com).
 <br/>
 
 ### Languages and Tools 🛠️
